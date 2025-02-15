@@ -1,1 +1,1 @@
-# this repo is for etsing the github workflows.
+# this repo is for testing the github workflows.
